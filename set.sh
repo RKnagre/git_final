@@ -20,6 +20,3 @@ else
 	echo "Condition is false."
 fi
 
-
-===============================
-# this is my practice file
